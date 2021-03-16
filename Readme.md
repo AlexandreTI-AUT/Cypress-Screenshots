@@ -19,6 +19,8 @@ Execute o comando `./node_modules/.bin/cypress open`para abrir o Cyprees e execu
 `npx cypress run --env allure=true ` - Executa os testes em modo headles
 
 `allure generate allure-results` - Gera o report
+
 `allure open allure-report` - Abre o report no navegador
+
 `npm run allure:clear` - Limpa os reports
 
